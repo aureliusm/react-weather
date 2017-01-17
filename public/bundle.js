@@ -27148,7 +27148,12 @@
 	        React.createElement(
 	            'h3',
 	            null,
-	            'About Component'
+	            'About'
+	        ),
+	        React.createElement(
+	            'p',
+	            null,
+	            'Welcome to the about page.'
 	        )
 	    );
 	};
